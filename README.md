@@ -65,7 +65,7 @@ I'm frontend developer in Istanbul/Turkey.
 
 ## 🛠 Skills
 
-Vanilla JS, React, Angular.js, ES6+
+Vanilla JS, React.js, Angular.js, ES6+
 
 ## 🔗 Links
 
