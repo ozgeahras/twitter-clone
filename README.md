@@ -13,8 +13,6 @@
 ### Links
 
 - [Github Repo](https://github.com/ozgeahras/twitter-clone)  
-- 
-
 
 ## Author
 
